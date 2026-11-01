@@ -21,6 +21,13 @@
       "size": 2183302,
       "sha256": "16cf6ea20bdc3ed90a39451c858060ac9fc42059a17a1cdc31dc2cd1b5ccc6c7",
       "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-0.30.9-cinema-0.2.2-beta/Alpha-IPTV-Cinema-v0.2.2-beta-release.apk"
+    },
+    "it.alpha.iptv.mobile": {
+      "versionName": "0.25.0",
+      "versionCode": 38,
+      "size": 2076750,
+      "sha256": "1e2975f0abe35e9adc418c49665710b2d1c39b3c214d6e83ea9cb5595c42b8e6",
+      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/mobile-0.25.0/Alpha-IPTV-Mobile-v0.25.0-release.apk"
     }
   }
 }
