@@ -2,32 +2,32 @@
   "schema": 1,
   "releases": {
     "it.alpha.tv": {
-      "versionName": "0.30.12",
-      "versionCode": 48,
-      "size": 2302272,
-      "sha256": "1f64fae66b685eb42188822bfa49b5aaf7a32b5faaf9aeb9090eba70d2eabaca",
-      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-dettagli-0.30.12/TV-Alpha-v0.30.12-release.apk"
+      "versionName": "0.30.13",
+      "versionCode": 49,
+      "size": 2310464,
+      "sha256": "b46de9eaacc5c05670e21071f756d4678bf5f69a3dc024907e7371abfb60ec32",
+      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-diagnostica-0.30.13/TV-Alpha-v0.30.13-release.apk"
     },
     "it.alpha.iptv": {
-      "versionName": "0.30.12",
-      "versionCode": 48,
-      "size": 2166918,
-      "sha256": "257397cf52b55ad4fd12f84684f99fa7085b37feb8728c917696559236057773",
-      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-dettagli-0.30.12/Alpha-IPTV-v0.30.12-release.apk"
+      "versionName": "0.30.13",
+      "versionCode": 49,
+      "size": 2171014,
+      "sha256": "9a4ef6be371d5b6105f2bce7f02de5fab32120756f09c225189636b265cf9047",
+      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-diagnostica-0.30.13/Alpha-IPTV-v0.30.13-release.apk"
     },
     "it.alpha.iptv.cinema": {
-      "versionName": "0.2.4-beta",
-      "versionCode": 7,
-      "size": 2187398,
-      "sha256": "f3c4f486adb586d8f31bf4d6bac07a6dbdba7b7fa3733c43c869df22bf865083",
-      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-dettagli-0.30.12/Alpha-IPTV-Cinema-v0.2.4-beta-release.apk"
+      "versionName": "0.2.5-beta",
+      "versionCode": 8,
+      "size": 2191494,
+      "sha256": "3d643011e773d931dccdb9dee9cdf3ffa6b35a6caf23aa80985e8e7198e03bd2",
+      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-diagnostica-0.30.13/Alpha-IPTV-Cinema-v0.2.5-beta-release.apk"
     },
     "it.alpha.iptv.mobile": {
-      "versionName": "0.25.1",
-      "versionCode": 39,
-      "size": 2084942,
-      "sha256": "f39c1aa83b6cb210464fa769aa5d2b22fb2f20c32b84f4a9faba9a7da4c99d18",
-      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-dettagli-0.30.12/Alpha-IPTV-Mobile-v0.25.1-release.apk"
+      "versionName": "0.25.2",
+      "versionCode": 40,
+      "size": 2093134,
+      "sha256": "fe276b8140c35f15874af14a94bf8b392a42b067f6efe56faa0da24e791af0da",
+      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-diagnostica-0.30.13/Alpha-IPTV-Mobile-v0.25.2-release.apk"
     }
   }
 }
