@@ -2,18 +2,18 @@
   "schema": 1,
   "releases": {
     "it.alpha.tv": {
-      "versionName": "0.30.16",
-      "versionCode": 52,
-      "size": 2359728,
-      "sha256": "6ae9b57f93a2e0bc5de92ae5e648045f3e7c487323763671f1026ca7aa2ea82d",
-      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/tv-alpha-preferiti-intro-0.30.16/TV-Alpha-v0.30.16-release.apk"
+      "versionName": "0.30.17",
+      "versionCode": 53,
+      "size": 2364272,
+      "sha256": "60142178b0c5a0be4dae6bf1d30114717bf6ecdcb6de11639c75fe1711786898",
+      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/tv-alpha-iptv-icons-0.30.17/TV-Alpha-v0.30.17-release.apk"
     },
     "it.alpha.iptv": {
-      "versionName": "0.30.16",
-      "versionCode": 52,
+      "versionName": "0.30.17",
+      "versionCode": 53,
       "size": 2220278,
-      "sha256": "a2d5a77da3df30cf8a9e0376dba6694ddcaf41e1441957fdb5cd373e198aee79",
-      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-box-preferiti-0.30.16/Alpha-IPTV-v0.30.16-release.apk"
+      "sha256": "ea57cb01b0cbbdbd74ddf77e57f9d0274d0bc9aee1722508cd1d0253b9f8bb77",
+      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/tv-alpha-iptv-icons-0.30.17/Alpha-IPTV-v0.30.17-release.apk"
     },
     "it.alpha.iptv.cinema": {
       "versionName": "0.2.6-beta",
