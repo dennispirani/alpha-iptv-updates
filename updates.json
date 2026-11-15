@@ -2,11 +2,11 @@
   "schema": 1,
   "releases": {
     "it.alpha.tv": {
-      "versionName": "0.30.14",
-      "versionCode": 50,
-      "size": 2331056,
-      "sha256": "845258181380bcae89b196013dfba8b5cc4f2eda65802b631f3af143b2758bbe",
-      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-tmdb-0.30.14/TV-Alpha-v0.30.14-release.apk"
+      "versionName": "0.30.16",
+      "versionCode": 52,
+      "size": 2359728,
+      "sha256": "6ae9b57f93a2e0bc5de92ae5e648045f3e7c487323763671f1026ca7aa2ea82d",
+      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/tv-alpha-preferiti-intro-0.30.16/TV-Alpha-v0.30.16-release.apk"
     },
     "it.alpha.iptv": {
       "versionName": "0.30.16",
