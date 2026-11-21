@@ -9,11 +9,11 @@
       "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/tv-alpha-iptv-icons-0.30.18/TV-Alpha-v0.30.18-release.apk"
     },
     "it.alpha.iptv": {
-      "versionName": "0.30.20",
-      "versionCode": 57,
-      "size": 2224374,
-      "sha256": "83afd3dc22bd210b8316923445dd5cf4e9490bf116c7da0bde38149b265f3688",
-      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-box-search-sd-0.30.20/Alpha-IPTV-v0.30.20-release.apk"
+      "versionName": "0.30.22",
+      "versionCode": 59,
+      "size": 2339433,
+      "sha256": "d0e6f0720c5b5f2f0cc0686ac69f5bda3439bba8ffe6285b8cc4be6bb068c6f4",
+      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-box-ricerca-sezioni-0.30.22/Alpha-IPTV-v0.30.22-release.apk"
     },
     "it.alpha.iptv.cinema": {
       "versionName": "0.2.6-beta",
