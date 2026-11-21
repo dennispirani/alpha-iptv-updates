@@ -23,11 +23,11 @@
       "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-tmdb-0.30.14/Alpha-IPTV-Cinema-v0.2.6-beta-release.apk"
     },
     "it.alpha.iptv.mobile": {
-      "versionName": "0.25.3",
-      "versionCode": 41,
-      "size": 2117822,
-      "sha256": "69d34f14b1dc4f7534d91ecc6e1b5429ff02950b1e281c5a5193c340b85368b9",
-      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-tmdb-0.30.14/Alpha-IPTV-Mobile-v0.25.3-release.apk"
+      "versionName": "0.25.4",
+      "versionCode": 42,
+      "size": 2232883,
+      "sha256": "bf72b8ec4443499971c1ffc7a71dfaacde53426bb83fc8284436e139a6e8661f",
+      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-mobile-0.25.4/Alpha-IPTV-Mobile-v0.25.4-release.apk"
     }
   }
 }
