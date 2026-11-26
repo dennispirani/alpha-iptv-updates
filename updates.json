@@ -9,11 +9,11 @@
       "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/tv-alpha-iptv-icons-0.30.18/TV-Alpha-v0.30.18-release.apk"
     },
     "it.alpha.iptv": {
-      "versionName": "0.30.24",
-      "versionCode": 61,
-      "size": 2339433,
-      "sha256": "9c7c1dd3a0483605ddb7600831b2b431021967949b0c643da756903043d3a2bb",
-      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-box-recupero-diretta-0.30.24/Alpha-IPTV-v0.30.24-release.apk"
+      "versionName": "0.30.30",
+      "versionCode": 67,
+      "size": 2355817,
+      "sha256": "b2eea26579528d17d09fc0c734dd335e88e085af951fe6da701fd29d40bbe2e2",
+      "url": "https://github.com/dennispirani/alpha-iptv-updates/releases/download/alpha-iptv-box-varianti-diretta-0.30.30/Alpha-IPTV-v0.30.30-release.apk"
     },
     "it.alpha.iptv.cinema": {
       "versionName": "0.2.6-beta",
